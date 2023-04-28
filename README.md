@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![My github stats!!](https://github-readme-stats.vercel.app/api?username=krossroad&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide=contribs)
+<!-- ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=krossroad&theme=transparent) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krossroad&theme=transparent)
+
+🔖 View the badges I unlocked in [GitHub](https://github.com/krossroad?tab=achievements).
+
+
 <!--
 **krossroad/krossroad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
